@@ -6,7 +6,7 @@ For CyberSecurity I'm working on my google certificate and later will attempt th
 
 ## Learning Progress
 
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/67e8265d08b58aed6c8adbff?variant=dark&roadmaps=python%2Ccyber-security%2Clinux%2Csql" alt="roadmap.sh"/></a>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/67e8265d08b58aed6c8adbff?variant=dark" alt="roadmap.sh"/></a>
 
 <!--
 **kmpa29/kmpa29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
